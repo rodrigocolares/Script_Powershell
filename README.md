@@ -1,6 +1,6 @@
 3 Scripts criado em powershell:
 
-- install_plesk.ps1 ( Script para instalação automatizada do painel plesk com os seguintes passos:
+- install_plesk.ps1 (Script para instalação automatizada do painel plesk com os seguintes passos:)
   - Valida execução como administrador
     - Confirma Windows Server 2022
     - Baixa e instala o Plesk (instalação completa)
